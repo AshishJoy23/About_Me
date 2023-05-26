@@ -1,7 +1,8 @@
 # 💫 About Me:
 🧑‍💻 I'm Ashish Joy, a passionate self-taught Flutter Developer.<br><br>✈️ Passionate Flutter developer on a learning journey.<br>🌱 Building a captivating portfolio of Flutter apps.<br>🤹‍♂️ Seeking exciting challenges to enhance my skills.<br>🪖 Embracing complex problem-solving through elegant Flutter code.<br>👾 Let's connect and create amazing Flutter experiences together!
+
 ashishjoy23@gmail.com
-+919746411339
+
 
 
 ## 🌐 Socials:
